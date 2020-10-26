@@ -1,0 +1,4 @@
+H:\C#\Hodnocené\Nemocnice\Nemocnice\bin\Debug\Nemocnice.exe
+H:\C#\Hodnocené\Nemocnice\Nemocnice\bin\Debug\Nemocnice.pdb
+H:\C#\Hodnocené\Nemocnice\Nemocnice\obj\x86\Debug\Nemocnice.exe
+H:\C#\Hodnocené\Nemocnice\Nemocnice\obj\x86\Debug\Nemocnice.pdb

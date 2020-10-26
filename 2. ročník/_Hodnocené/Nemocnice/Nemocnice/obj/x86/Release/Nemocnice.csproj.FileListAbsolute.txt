@@ -1,0 +1,4 @@
+H:\C#\Hodnocené\Nemocnice\Nemocnice\bin\Release\Nemocnice.exe
+H:\C#\Hodnocené\Nemocnice\Nemocnice\bin\Release\Nemocnice.pdb
+H:\C#\Hodnocené\Nemocnice\Nemocnice\obj\x86\Release\Nemocnice.exe
+H:\C#\Hodnocené\Nemocnice\Nemocnice\obj\x86\Release\Nemocnice.pdb

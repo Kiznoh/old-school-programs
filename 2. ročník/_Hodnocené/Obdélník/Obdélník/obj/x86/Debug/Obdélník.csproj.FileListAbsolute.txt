@@ -1,0 +1,8 @@
+C:\Users\brudny.jan\AppData\Local\Temporary Projects\Obdélník\bin\Debug\Obdélník.exe
+C:\Users\brudny.jan\AppData\Local\Temporary Projects\Obdélník\bin\Debug\Obdélník.pdb
+C:\Users\brudny.jan\AppData\Local\Temporary Projects\Obdélník\obj\x86\Debug\Obdélník.exe
+C:\Users\brudny.jan\AppData\Local\Temporary Projects\Obdélník\obj\x86\Debug\Obdélník.pdb
+H:\C#\Hodnocené\Obdélník\Obdélník\obj\x86\Debug\Obdélník.exe
+H:\C#\Hodnocené\Obdélník\Obdélník\obj\x86\Debug\Obdélník.pdb
+H:\C#\Hodnocené\Obdélník\Obdélník\bin\Debug\Obdélník.exe
+H:\C#\Hodnocené\Obdélník\Obdélník\bin\Debug\Obdélník.pdb

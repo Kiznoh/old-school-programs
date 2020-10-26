@@ -1,0 +1,4 @@
+C:\Users\brudny.jan\AppData\Local\Temporary Projects\Kalkulačka\bin\Debug\Kalkulačka.exe
+C:\Users\brudny.jan\AppData\Local\Temporary Projects\Kalkulačka\bin\Debug\Kalkulačka.pdb
+C:\Users\brudny.jan\AppData\Local\Temporary Projects\Kalkulačka\obj\x86\Debug\Kalkulačka.exe
+C:\Users\brudny.jan\AppData\Local\Temporary Projects\Kalkulačka\obj\x86\Debug\Kalkulačka.pdb
